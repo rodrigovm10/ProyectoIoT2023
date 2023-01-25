@@ -14,12 +14,10 @@ de nuestra mascota, mandará una alerta a nuestro teléfono, mediante una aplica
 para que nosotros como los dueños de la mascota, podamos llenar el dispensador de alimento y agua.
 
 ### Objetivos específicos
-- Elemento 1 de la lista de objetivos específicos
-- Elemento 2 de la lista de objetivos específicos
-- Elemento 3 de la lista de objetivos específicos
-- Elemento 4 de la lista de objetivos específicos
-...
-- Elemento n de la lista de objetivos específicos
+- Mediante una aplicación el usuario será avisado cuando la comida o el del dispensador esta por acabarse para que pueda llenar de nuevo los dispensador.
+- Mediante una aplicación el usuario podrá llenar nuevamente los platos con agua o comida.
+- Mediante un sensor la mascota podrá alimentarse sola con solo acercarse.
+- Poder programar los dispensadores a ciertas horas para que se llenen automaticamente.
 
 ## Tabla de Software utilizado
 | Id | Software | Version | Tipo |
