@@ -25,6 +25,8 @@ para que nosotros como los dueños de la mascota, podamos llenar el dispensador 
 | 1  |Arduino   |2.0.1    |   IDE|
 | 2  |Node-red  |3.0      |Servicio|
 |3  |Telegram   |8.3      |App   |
+|4| Mosquitto|5.0|Servicio|
+|5|Gestor de bases de datos|x|SGBD|
 
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
