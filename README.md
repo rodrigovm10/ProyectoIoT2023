@@ -55,3 +55,5 @@ para que nosotros como los dueños de la mascota, podamos llenar el dispensador 
 ## Prototipo en dibujo
 ![image](https://user-images.githubusercontent.com/104101668/214484615-74ee57c3-b80c-44f1-90d1-d8cd39caa426.png)
 
+
+## Prototipo en 3D
