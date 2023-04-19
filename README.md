@@ -50,10 +50,11 @@ para que nosotros como los dueños de la mascota, podamos llenar el dispensador 
 |  1 | Como usuario quiero poder darle de comer y tomar a mi mascota cada cierto tiempo.|Alta|2-3 semanas|Se deberá esperar a que se llegue a la hora programada para ver que efectivamente funciona.|Itzel|
 |  2 |Como usuario quiero que la aplicación me mande una alerta para saber que la comida o agua del dispensador se está terminando.|Alta|2-3 semanas|Esperar a que se vacié el dispensador para ver que manda la alerta a la aplicación y que tenga un control de alimentacion.|Abraham|
 |  3|Como usuario quiero manejar a tráves de una aplicación controlar el dispensador de alimento y agua|Media|2-3semanas|Observando que al momento de llenar presionar o mandar un mensaje se llenen los dispensadores|Rodrigo|
-|  4|Como usuario quiero que mi perro se pueda alimentar en el momento en el que se acerca al dispensador.|Media|2-3semanas|Observando a la mascota acercarse al sensor y ver como este reacciona|Alma|
+|  4|Como usuario quiero que mi mascota se pueda alimentar en el momento en el que se acerca al dispensador.|Media|2-3semanas|Observando a la mascota acercarse al sensor y ver como este reacciona|Alma|
 
 ## Prototipo en dibujo
 ![image](https://user-images.githubusercontent.com/104101668/214484615-74ee57c3-b80c-44f1-90d1-d8cd39caa426.png)
 
 
 ## Prototipo en 3D
+
