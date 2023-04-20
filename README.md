@@ -11,8 +11,8 @@ Este proyecto tiene como objetivo la creación de un dispensador de alimento y d
 esto con el fin de automatizar el proceso de alimentación de la misma, de esta manera se tendrá un control remoto mediante el uso de una aplicación móvil (Telegram).
 
 ### Objetivos específicos
-- Mediante el uso de una aplicación el usuario será avisado cuando la comida o el dispensador esta por acabarse.
-- Mediante una aplicación (Telegram) el usuario podrá mandar mensaje para que pueda llenar nuevamente los platos con agua o comida.
+- El usuario prodrá visualizar mediante una pantalla Si hay agua o No hay para que este informado.
+- Mediante una aplicación (Telegram) el usuario podrá mandar mensaje para que pueda llenar nuevamente el plato de comida.
 - Mediante un sensor la mascota podrá alimentarse sola con solo acercarse al dispensador.
 - Poder programar los dispensadores a ciertas horas para que se llenen automaticamente.
 
@@ -49,9 +49,9 @@ esto con el fin de automatizar el proceso de alimentación de la misma, de esta 
 ## Tabla de historias de usuario
 | Id | Historia de usuario | Prioridad | Estimación | Como probarlo | Responsable |
 |----|---------------------|-----------|------------|---------------|-------------|
-|  1 | Como usuario quiero poder darle de comer y tomar a mi mascota cada cierto tiempo.|Alta|2-3 semanas|Se deberá esperar a que se llegue a la hora programada para ver que efectivamente funciona.|Itzel|
-|  2 |Como usuario quiero que la aplicación me mande una alerta para saber que la comida o agua del dispensador se está terminando.|Alta|2-3 semanas|Esperar a que se vacié el dispensador para ver que manda la alerta a la aplicación y que tenga un control de alimentacion.|Abraham|
-|  3|Como usuario quiero manejar a tráves de una aplicación controlar el dispensador de alimento y agua|Media|2-3semanas|Observando que al momento de llenar presionar o mandar un mensaje se llenen los dispensadores|Rodrigo|
+|  1 | Como usuario quiero poder darle de comer a mi mascota cada cierto tiempo.|Alta|2-3 semanas|Se deberá esperar a que se llegue a la hora programada para ver que efectivamente funciona.|Itzel|
+|  2 |Como usuario quiero poder ver mediante la aplicación (Telegram o la pantalla quiero poder revisar si hay agua o no hay alimento.|Alta|2-3 semanas|Esperar a que se vacié el dispensador o verifique en la pantalla si es que hay o no hay alimento y se tenga un control de alimentacion.|Abraham|
+|  3|Como usuario quiero manejar a tráves de una aplicación controlar el dispensador de alimento y agua|Media|2-3semanas|Observando que al momento de llenar presionar o mandar un mensaje se llene el dispensador de la comida para así tener un control con la comida|Rodrigo|
 |  4|Como usuario quiero que mi mascota se pueda alimentar en el momento en el que se acerca al dispensador.|Media|2-3semanas|Observando a la mascota acercarse al sensor y ver como este reacciona|Alma|
 
 ## Prototipo en dibujo
