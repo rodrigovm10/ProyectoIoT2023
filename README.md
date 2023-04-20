@@ -7,11 +7,8 @@
 - Vega Montoya Rodrigo Julian 
 
 ## Objetivo general
-Este proyecto tiene como objetivo la creación de un dispensador de alimento y de agua para mascota, ya sea un gato o un perro, 
-esto con el fin de tener una forma automatizada de tener controlada la alimentación de las mascotas, además de que 
-podrá ser de ayuda a tener un control sobre el alimento de nuestra mascota, donde si se termina va a terminar el alimento o el agua
-de nuestra mascota, mandará una alerta a nuestro teléfono, mediante una aplicación móvil, la cual nos estará avisando
-para que nosotros como los dueños de la mascota, podamos llenar el dispensador de alimento y agua.
+Este proyecto tiene como objetivo la creación de un dispensador de alimento y de agua para mascota, 
+esto con el fin de automatizar el proceso de alimentación de las mismas, de esta manera se tendrá un control remoto mediante el uso de una aplicación móvil (Telegram).
 
 ### Objetivos específicos
 - Mediante una aplicación el usuario será avisado cuando la comida o el del dispensador esta por acabarse para que pueda llenar de nuevo los dispensador.
