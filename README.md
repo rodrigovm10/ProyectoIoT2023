@@ -59,4 +59,10 @@ esto con el fin de automatizar el proceso de alimentación de la misma, de esta 
 
 
 ## Prototipo en 3D
+![image](https://user-images.githubusercontent.com/106613946/233441515-a1216b56-5058-416e-8efc-4c1414ceccf3.png)
+
+![image](https://user-images.githubusercontent.com/106613946/233441541-836b1265-5eff-46b5-80d1-5afa551a1ef0.png)
+
+![image](https://user-images.githubusercontent.com/106613946/233441573-1d6639da-cb21-4d03-b97a-3edda64c7ac7.png)
+
 
