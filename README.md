@@ -8,10 +8,10 @@
 
 ## Objetivo general
 Este proyecto tiene como objetivo la creación de un dispensador de alimento y de agua para mascota, 
-esto con el fin de automatizar el proceso de alimentación de las mismas, de esta manera se tendrá un control remoto mediante el uso de una aplicación móvil (Telegram).
+esto con el fin de automatizar el proceso de alimentación de la misma, de esta manera se tendrá un control remoto mediante el uso de una aplicación móvil (Telegram).
 
 ### Objetivos específicos
-- Mediante una aplicación el usuario será avisado cuando la comida o el del dispensador esta por acabarse para que pueda llenar de nuevo los dispensador.
+- Mediante el uso de una aplicación el usuario será avisado cuando la comida o el del dispensador esta por acabarse para que pueda llenar de nuevo los dispensador.
 - Mediante una aplicación el usuario podrá llenar nuevamente los platos con agua o comida.
 - Mediante un sensor la mascota podrá alimentarse sola con solo acercarse.
 - Poder programar los dispensadores a ciertas horas para que se llenen automaticamente.
