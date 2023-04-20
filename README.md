@@ -11,9 +11,9 @@ Este proyecto tiene como objetivo la creación de un dispensador de alimento y d
 esto con el fin de automatizar el proceso de alimentación de la misma, de esta manera se tendrá un control remoto mediante el uso de una aplicación móvil (Telegram).
 
 ### Objetivos específicos
-- Mediante el uso de una aplicación el usuario será avisado cuando la comida o el del dispensador esta por acabarse para que pueda llenar de nuevo los dispensador.
-- Mediante una aplicación el usuario podrá llenar nuevamente los platos con agua o comida.
-- Mediante un sensor la mascota podrá alimentarse sola con solo acercarse.
+- Mediante el uso de una aplicación el usuario será avisado cuando la comida o el dispensador esta por acabarse.
+- Mediante una aplicación (Telegram) el usuario podrá mandar mensaje para que pueda llenar nuevamente los platos con agua o comida.
+- Mediante un sensor la mascota podrá alimentarse sola con solo acercarse al dispensador.
 - Poder programar los dispensadores a ciertas horas para que se llenen automaticamente.
 
 ## Tabla de Software utilizado
