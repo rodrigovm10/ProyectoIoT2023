@@ -65,6 +65,10 @@ esto con el fin de automatizar el proceso de alimentación de la misma, de esta 
 
 ![image](https://user-images.githubusercontent.com/106613946/233441573-1d6639da-cb21-4d03-b97a-3edda64c7ac7.png)
 
+## Diagrama de Fritzing
+![diagrama](https://user-images.githubusercontent.com/106613946/234113229-2ff5bfed-b6b0-47b8-a14e-22efa192b190.png)
+
+
 ## Resultado Final
 ![image](https://user-images.githubusercontent.com/106613946/234085571-203d61be-b689-404e-9ce4-9e43d9991f64.png)
 
