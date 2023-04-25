@@ -78,6 +78,18 @@ esto con el fin de automatizar el proceso de alimentación de la misma, de esta 
 
 ![image](https://user-images.githubusercontent.com/106613946/234086268-a95e232e-dd7d-4b33-af16-211bc556cc36.png)
 
+![image](https://user-images.githubusercontent.com/114689978/234426035-18bf5707-eb4c-433c-8ced-04d9d29ff086.png)
+
+![image](https://user-images.githubusercontent.com/114689978/234426058-b602498f-8284-4551-ac81-55a109a83549.png)
+
+![image](https://user-images.githubusercontent.com/114689978/234426074-5b8cf316-053d-4701-8fb4-c9985e416782.png)
+
+![image](https://user-images.githubusercontent.com/114689978/234426096-f140dc18-5c6e-48d5-a730-41ffd7f98547.png)
+
+![image](https://user-images.githubusercontent.com/114689978/234426111-c43e6cae-3a1a-409e-a4cb-14db7a316b5e.png)
+
+
+
 
 
 
