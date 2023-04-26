@@ -87,15 +87,3 @@ esto con el fin de automatizar el proceso de alimentación de la misma, de esta 
 ![image](https://user-images.githubusercontent.com/114689978/234426096-f140dc18-5c6e-48d5-a730-41ffd7f98547.png)
 
 ![image](https://user-images.githubusercontent.com/114689978/234426111-c43e6cae-3a1a-409e-a4cb-14db7a316b5e.png)
-
-## Capturas de Dashboard
-![Captura de pantalla (196)](https://user-images.githubusercontent.com/104101668/234670223-99feb785-5577-439f-81b5-63507c0f5d66.png)
-![Captura de pantalla (194)](https://user-images.githubusercontent.com/104101668/234670449-804d02b8-78c3-42f1-8edc-7c756ef9329a.png)
-![Captura de pantalla (195)](https://user-images.githubusercontent.com/104101668/234670464-9675a49f-6511-4a05-b70d-d3b763dbbbea.png)
-
-
-
-
-
-
-
